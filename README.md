@@ -34,6 +34,8 @@ Let's connect to discuss ML papers, approaches or perhaps you want to contribute
   <a href="https://www.linkedin.com/in/shankha-deep-roy/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fofficial-linkedin-logo----17.png&f=1&nofb=1&ipt=b98f2c14fccf1cb6745008fe13e4cd6ec25c43715fe278c8974d4c02d6eb664c" width="3%" alt="Roy LinkedIn"></a>
 <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://api.whatsapp.com/send?phone=9836533804&text=hi"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fwhatsapp%2Flogo-whatsapp-preto-branco-1024.png&f=1&nofb=1&ipt=442053a4f9c75d86e9d222bec4264c4ab0316d2a157a7541d4aab8aff193abff" width="3%" alt="Whatsapp Roy"></a>
+<img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="mailto:shankharay.917@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F014%2F455%2F849%2Fnon_2x%2Femail-envelope-outline-icon-on-transparent-background-free-png.png&f=1&nofb=1&ipt=0abca6b4bfe47fd54d005fa75a7514d82940dec68e8074ea5a63e0a104a29a72" width="3%" alt="Email"></a>
 </div>
 
 ---
