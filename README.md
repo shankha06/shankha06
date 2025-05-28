@@ -31,7 +31,9 @@ Let's connect to discuss ML papers, approaches or perhaps you want to contribute
 <div align="center">
   <a href="https://github.com/shankha06"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FGitHub_logo.png&f=1&nofb=1&ipt=d3597152087908392914b9d33c6d93b61ff85d5af865c891133dbff96dbbab88" width="3%" alt="Roy GitHub"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
-  <a href="https://www.linkedin.com/in/shankha-deep-roy/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fofficial-linkedin-logo----17.png&f=1&nofb=1&ipt=b98f2c14fccf1cb6745008fe13e4cd6ec25c43715fe278c8974d4c02d6eb664c" width="3%" alt="Ultralytics LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shankha-deep-roy/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fofficial-linkedin-logo----17.png&f=1&nofb=1&ipt=b98f2c14fccf1cb6745008fe13e4cd6ec25c43715fe278c8974d4c02d6eb664c" width="3%" alt="Roy LinkedIn"></a>
+<img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://api.whatsapp.com/send?phone=9836533804&text=hi"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fwhatsapp%2Flogo-whatsapp-preto-branco-1024.png&f=1&nofb=1&ipt=442053a4f9c75d86e9d222bec4264c4ab0316d2a157a7541d4aab8aff193abff" width="3%" alt="Whatsapp Roy"></a>
 </div>
 
 ---
